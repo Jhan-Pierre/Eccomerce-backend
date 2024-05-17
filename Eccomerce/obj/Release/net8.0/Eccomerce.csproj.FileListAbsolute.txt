@@ -120,6 +120,7 @@ C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Release\net8.0\Eccomerce.Ass
 C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Release\net8.0\Eccomerce.csproj.CoreCompileInputs.cache
 C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Release\net8.0\Eccomerce.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Release\net8.0\Eccomerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Release\net8.0\Eccomerce.sourcelink.json
 C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Release\net8.0\staticwebassets.build.json
 C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Release\net8.0\staticwebassets.development.json
 C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Release\net8.0\staticwebassets\msbuild.Eccomerce.Microsoft.AspNetCore.StaticWebAssets.props

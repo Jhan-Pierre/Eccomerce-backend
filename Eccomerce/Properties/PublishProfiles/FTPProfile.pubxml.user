@@ -7,7 +7,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtU+Z778Qq06YgVE4jodpigAAAAACAAAAAAAQZgAAAAEAACAAAAABy6ylKItpixJibAPqh4VyKCK9ElZLb8q6Sxpe0fsFuAAAAAAOgAAAAAIAACAAAABl7rVLSkr8rA/3vcPH3KohaTRkR/LNkDB0B4rXxaak6iAAAADu7xOakZWi5mdjgxkhv8iEHSNXC5uz9qK4BLo5V0yrJEAAAAC3qB0iiH+/mfVb+RCAdH0/uHqnJ/P4Pd5pkfmHtscivAnJhbkTEVnGTsRrIfrWvRlSg8gwnRAzxlcPOX1+jVjL</EncryptedPassword>
     <_PublishTargetUrl>ftp://198.37.116.42/www.eccomerce.somee.com</_PublishTargetUrl>
-    <History>True|2024-05-17T01:47:04.8760344Z;True|2024-05-16T16:51:51.9420216-05:00;</History>
+    <History>True|2024-05-17T15:30:26.8645311Z;True|2024-05-16T20:47:04.8760344-05:00;True|2024-05-16T16:51:51.9420216-05:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -24,19 +24,19 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/18/2023 14:59:42</publishTime>
     </File>
     <File Include="Eccomerce.deps.json">
-      <publishTime>05/16/2024 20:45:15</publishTime>
+      <publishTime>05/17/2024 10:28:37</publishTime>
     </File>
     <File Include="Eccomerce.dll">
-      <publishTime>05/16/2024 20:45:14</publishTime>
+      <publishTime>05/17/2024 10:28:33</publishTime>
     </File>
     <File Include="Eccomerce.exe">
-      <publishTime>05/16/2024 20:45:14</publishTime>
+      <publishTime>05/17/2024 10:28:33</publishTime>
     </File>
     <File Include="Eccomerce.pdb">
-      <publishTime>05/16/2024 20:45:14</publishTime>
+      <publishTime>05/17/2024 10:28:33</publishTime>
     </File>
     <File Include="Eccomerce.runtimeconfig.json">
-      <publishTime>05/16/2024 16:50:20</publishTime>
+      <publishTime>05/17/2024 10:28:34</publishTime>
     </File>
     <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
       <publishTime>10/22/2021 18:47:36</publishTime>
@@ -159,7 +159,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/22/2021 18:49:44</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>05/16/2024 20:45:15</publishTime>
+      <publishTime>05/17/2024 10:28:37</publishTime>
     </File>
   </ItemGroup>
 </Project>

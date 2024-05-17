@@ -26,6 +26,21 @@ namespace Eccomerce.Controllers
             return Ok(listStates);
         }
 
+        [HttpGet]
+        [Route("Find/{id:int}")]
+        public async Task<IActionResult> Find(int id)
+        {
+            var state = await _context.TbStates.FindAsync(id);
+
+            if (state == null)
+            {
+                return NotFound("El estado no fue encontrado.");
+            }
+
+            return Ok(state);
+        }
+
+
         [HttpPost]
         [Route("Add")]
         public async Task<IActionResult> Add([FromBody] TbState request)
