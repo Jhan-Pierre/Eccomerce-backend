@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|c:\\users\\luisl\\source\\repos\\eccomerce\\eccomerce\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|solutionrelative:eccomerce\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|c:\\users\\luisl\\source\\repos\\eccomerce\\eccomerce\\models\\tbstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|solutionrelative:eccomerce\\models\\tbstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|c:\\users\\luisl\\source\\repos\\eccomerce\\eccomerce\\models\\dbeccomercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|solutionrelative:eccomerce\\models\\dbeccomercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|c:\\users\\luisl\\source\\repos\\eccomerce\\eccomerce\\eccomerce.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|solutionrelative:eccomerce\\eccomerce.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|c:\\users\\luisl\\source\\repos\\eccomerce\\eccomerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|solutionrelative:eccomerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|c:\\users\\luisl\\source\\repos\\eccomerce\\eccomerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84EB14C2-5452-4190-9DF7-81E7C97906CD}|Eccomerce\\Eccomerce.csproj|solutionrelative:eccomerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Eccomerce",
+              "DocumentMoniker": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Eccomerce.csproj",
+              "RelativeDocumentMoniker": "Eccomerce\\Eccomerce.csproj",
+              "ToolTip": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Eccomerce.csproj",
+              "RelativeToolTip": "Eccomerce\\Eccomerce.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T01:16:55.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Eccomerce\\Controllers\\StateController.cs",
+              "ToolTip": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Eccomerce\\Controllers\\StateController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:37:36.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Program.cs",
+              "RelativeDocumentMoniker": "Eccomerce\\Program.cs",
+              "ToolTip": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Program.cs",
+              "RelativeToolTip": "Eccomerce\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:33:53.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Eccomerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\appsettings.json",
+              "RelativeToolTip": "Eccomerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T20:32:28.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TbState.cs",
+              "DocumentMoniker": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Models\\TbState.cs",
+              "RelativeDocumentMoniker": "Eccomerce\\Models\\TbState.cs",
+              "ToolTip": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Models\\TbState.cs",
+              "RelativeToolTip": "Eccomerce\\Models\\TbState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:51:34.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbEccomerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Models\\DbEccomerceContext.cs",
+              "RelativeDocumentMoniker": "Eccomerce\\Models\\DbEccomerceContext.cs",
+              "ToolTip": "C:\\Users\\luisl\\source\\repos\\Eccomerce\\Eccomerce\\Models\\DbEccomerceContext.cs",
+              "RelativeToolTip": "Eccomerce\\Models\\DbEccomerceContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:51:05.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
