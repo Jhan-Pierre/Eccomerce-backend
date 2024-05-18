@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Eccomerce.Models;
 
-public partial class TbState
+public partial class TbShift
 {
     public int Id { get; set; }
 

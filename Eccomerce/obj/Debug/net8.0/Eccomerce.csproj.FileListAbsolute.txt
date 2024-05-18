@@ -134,3 +134,4 @@ C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Debug\net8.0\refint\Eccomerc
 C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Debug\net8.0\Eccomerce.pdb
 C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Debug\net8.0\Eccomerce.genruntimeconfig.cache
 C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Debug\net8.0\ref\Eccomerce.dll
+C:\Users\luisl\source\repos\Eccomerce\Eccomerce\obj\Debug\net8.0\Eccomerce.sourcelink.json
