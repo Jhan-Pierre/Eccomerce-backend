@@ -136,6 +136,11 @@ namespace Eccomerce.Controllers
                 return BadRequest("StateId es obligatorio");
             }
 
+            if (user.ShiftId.HasValue)
+            {
+                userFromDb.ShiftId = user.ShiftId.Value;
+            }
+
             userFromDb.UpdatedAt = DateTime.UtcNow; // Establecer la fecha y hora actual en UTC
 
             var result = await _context.SaveChangesAsync();
