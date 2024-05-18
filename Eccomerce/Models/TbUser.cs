@@ -27,9 +27,10 @@ public partial class TbUser
 
     public int? ShiftId { get; set; }
 
-    public virtual TbRole Role { get; set; } = null!;
+    public virtual TbRole? Role { get; set; }
 
     public virtual TbShift? Shift { get; set; }
 
-    public virtual TbState State { get; set; } = null!;
+    public virtual TbState? State { get; set; }
+
 }
