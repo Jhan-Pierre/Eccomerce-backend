@@ -13,5 +13,5 @@ public partial class TbPermission
 
     public virtual TbModule? Module { get; set; }
 
-    public virtual ICollection<TbRolePermission> TbRolePermissions { get; set; } = new List<TbRolePermission>();
+    public virtual ICollection<TbRolePermission>? TbRolePermissions { get; set; }
 }

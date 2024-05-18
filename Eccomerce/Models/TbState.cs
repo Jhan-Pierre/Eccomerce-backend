@@ -9,5 +9,5 @@ public partial class TbState
 
     public string Name { get; set; } = null!;
 
-    public virtual ICollection<TbUser> TbUsers { get; set; } = new List<TbUser>();
+    public virtual ICollection<TbUser>? TbUsers { get; set; }
 }

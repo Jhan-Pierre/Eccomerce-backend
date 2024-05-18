@@ -9,5 +9,5 @@ public partial class TbModule
 
     public string Name { get; set; } = null!;
 
-    public virtual ICollection<TbPermission> TbPermissions { get; set; } = new List<TbPermission>();
+    public virtual ICollection<TbPermission>? TbPermissions { get; set; }
 }
