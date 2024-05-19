@@ -1,16 +1,16 @@
 -- Eliminar la base de datos si ya existe
-if exists (select * from sys.databases where name = 'db_eccomerce')
+if exists (select * from sys.databases where name = 'luislopezhuari_')
 begin
-    drop database db_eccomerce;
+    drop database luislopezhuari_;
 end
 go
 
 -- Crear la base de datos
-create database db_eccomerce;
+create database luislopezhuari_;
 go
 
 -- Usar la base de datos
-use db_eccomerce;
+use luislopezhuari_;
 go
 
 -- Eliminar las tablas si ya existen

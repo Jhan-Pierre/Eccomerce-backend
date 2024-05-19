@@ -14,7 +14,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5032",
+      "applicationUrl": "https://eccomerce.fly.dev/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

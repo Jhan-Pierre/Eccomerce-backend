@@ -6,65 +6,65 @@ using Eccomerce.Models;
 
 namespace Eccomerce.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class StateController : ControllerBase
-    {
-        private readonly DbEccomerceContext _context;
+    //[Route("api/[controller]")]
+    //[ApiController]
+    //public class StateController : ControllerBase
+    //{
+    //    private readonly DbEccomerceContext _context;
 
-        public StateController(DbEccomerceContext context)
-        {
-            _context = context;
-        }
+    //    public StateController(DbEccomerceContext context)
+    //    {
+    //        _context = context;
+    //    }
 
-        //Listar estados
-        [HttpGet]
-        [Route("List")]
-        public async Task<IActionResult> List()
-        {
-            var listStates = await _context.TbStates.ToListAsync();
-            return Ok(listStates);
-        }
+    //    //Listar estados
+    //    [HttpGet]
+    //    [Route("List")]
+    //    public async Task<IActionResult> List()
+    //    {
+    //        var listStates = await _context.TbStates.ToListAsync();
+    //        return Ok(listStates);
+    //    }
 
-        [HttpGet]
-        [Route("Find/{id:int}")]
-        public async Task<IActionResult> Find(int id)
-        {
-            var state = await _context.TbStates.FindAsync(id);
+    //    [HttpGet]
+    //    [Route("Find/{id:int}")]
+    //    public async Task<IActionResult> Find(int id)
+    //    {
+    //        var state = await _context.TbStates.FindAsync(id);
 
-            if (state == null)
-            {
-                return NotFound("El estado no fue encontrado.");
-            }
+    //        if (state == null)
+    //        {
+    //            return NotFound("El estado no fue encontrado.");
+    //        }
 
-            return Ok(state);
-        }
+    //        return Ok(state);
+    //    }
 
 
-        [HttpPost]
-        [Route("Add")]
-        public async Task<IActionResult> Add([FromBody] TbState request)
-        {
-            await _context.TbStates.AddAsync(request);
-            await _context.SaveChangesAsync();
-            return Ok(request);
-        }
+    //    [HttpPost]
+    //    [Route("Add")]
+    //    public async Task<IActionResult> Add([FromBody] TbState request)
+    //    {
+    //        await _context.TbStates.AddAsync(request);
+    //        await _context.SaveChangesAsync();
+    //        return Ok(request);
+    //    }
 
-        [HttpDelete]
-        [Route("Delete/{id:int}")]
-        public async Task<IActionResult> Delete(int id)
-        {
-            var stateDelete = await _context.TbStates.FindAsync(id);
+    //    [HttpDelete]
+    //    [Route("Delete/{id:int}")]
+    //    public async Task<IActionResult> Delete(int id)
+    //    {
+    //        var stateDelete = await _context.TbStates.FindAsync(id);
 
-            if (stateDelete == null)
-            {
-                return BadRequest("No existe el estado");
-            }
+    //        if (stateDelete == null)
+    //        {
+    //            return BadRequest("No existe el estado");
+    //        }
 
-            _context.TbStates.Remove(stateDelete);
-            await _context.SaveChangesAsync();
-            return Ok();
-        }
+    //        _context.TbStates.Remove(stateDelete);
+    //        await _context.SaveChangesAsync();
+    //        return Ok();
+    //    }
 
-    }
+    //}
 }
